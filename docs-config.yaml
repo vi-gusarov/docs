@@ -26,8 +26,8 @@ frontend:
       uri: "https://codex.so"
 
 auth:
-  password: secretpassword
-  secret: supersecret
+  password: writersx5
+  secret: techwritersx5
 
 hawk:
 #  frontendToken: "123"
